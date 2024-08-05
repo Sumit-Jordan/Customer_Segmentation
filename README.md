@@ -1,4 +1,4 @@
-# In this project
+# In this project 
 #### Conducted a comprehensive customer segmentation analysis using a diverse dataset of purchasing behavior.
 #### Employed data cleaning techniques to ensure data consistency and accuracy.
 #### Performed exploratory data analysis (EDA) to understand data distribution and relationships between variables.
